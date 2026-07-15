@@ -171,7 +171,7 @@ export function AnalyticsDashboard({ themeMode = 'classic' }: AnalyticsDashboard
               Administration overview
             </div>
             <h2 className="mt-4 text-3xl font-semibold tracking-tight text-white sm:text-4xl">
-              TeamHub-inspired workspace for the SONS database
+              Harvest workspace for PUP SONs
             </h2>
             <p className="mt-3 max-w-xl text-sm leading-6 text-slate-200/90">
               The same ministry records and analytics now sit inside a polished, modern admin dashboard experience.

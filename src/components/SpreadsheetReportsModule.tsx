@@ -359,7 +359,7 @@ export function SpreadsheetReportsModule() {
         <div>
           <h2 className="text-gray-900 font-extrabold text-xl flex items-center gap-2">
             <FileSpreadsheet className="w-6 h-6 text-emerald-600" />
-            PUP SONS Database Sheets
+            Harvest Database Sheets
           </h2>
           <p className="text-gray-600 text-sm">Interactive Excel-like spreadsheets mapped dynamically from the cell group tracker database</p>
         </div>

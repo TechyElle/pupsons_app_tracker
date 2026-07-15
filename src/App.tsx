@@ -121,8 +121,8 @@ export default function App() {
         <div className="flex items-center gap-2">
           <Activity className="w-6 h-6 text-green-400 animate-pulse" />
           <div>
-            <h1 className="text-lg font-bold tracking-tight">PUP SONs</h1>
-            <p className="text-xs text-blue-200">Cell Group Tracker</p>
+            <h1 className="text-lg font-bold tracking-tight">Harvest</h1>
+            <p className="text-xs text-blue-200">PUP SONs Engagement Platform</p>
           </div>
         </div>
         <div className="flex items-center gap-2.5">
@@ -161,8 +161,8 @@ export default function App() {
                 <Activity className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold tracking-tight text-white">PUP SONs</h1>
-                <p className="text-xs text-emerald-100/75 font-medium">TeamHub Admin</p>
+                <h1 className="text-xl font-bold tracking-tight text-white">Harvest</h1>
+                <p className="text-xs text-emerald-100/75 font-medium">PUP SONs Engagement Platform</p>
               </div>
             </div>
             <button 
@@ -260,7 +260,7 @@ export default function App() {
           <div>
             <div className="teamhub-breadcrumb flex items-center gap-2 text-[11px] font-semibold text-slate-400 mb-1">
               <LayoutDashboard className="w-3.5 h-3.5" />
-              <span>SONS Database</span><span>/</span><span className="text-emerald-700">Overview</span>
+              <span>Harvest</span><span>/</span><span className="text-emerald-700">Overview</span>
             </div>
             <div className="flex items-center gap-3">
               <h2 className="text-2xl font-bold text-slate-800 tracking-tight">{getActiveTabTitle()}</h2>

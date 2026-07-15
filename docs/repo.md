@@ -3,10 +3,10 @@ description: Repository Information Overview
 alwaysApply: true
 ---
 
-# SONS Database Information
+# Harvest Information
 
 ## Summary
-The **SONS Database** is a React-based web application designed for tracking and managing cell group activities for **PUP Seeds of the Nations**. It provides a comprehensive suite of modules for member management, weekly activity tracking, evangelism monitoring, financial reporting, and content management, integrated with a dashboard for analytics and a Gemini-powered AI module.
+**Harvest: Automated Member Engagement and Tracking Platform for PUP SONs** is a React-based web application designed for tracking and managing cell group activities for **PUP Seeds of the Nations**. It provides a comprehensive suite of modules for member management, weekly activity tracking, evangelism monitoring, financial reporting, and content management, integrated with a dashboard for analytics and a Gemini-powered AI module.
 
 ## Structure
 - **src/components/**: Contains the core feature modules:

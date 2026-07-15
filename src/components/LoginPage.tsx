@@ -22,8 +22,8 @@ export function LoginPage({ onSignIn }: LoginPageProps) {
               <Activity className="w-5 h-5" />
             </div>
             <div>
-              <p className="text-lg leading-none font-extrabold tracking-tight text-[#064a31]">PUP SONs</p>
-              <p className="mt-1 text-[10px] font-bold uppercase tracking-[.14em] text-slate-400">Database Portal</p>
+              <p className="text-lg leading-none font-extrabold tracking-tight text-[#064a31]">Harvest</p>
+              <p className="mt-1 text-[10px] font-bold uppercase tracking-[.14em] text-slate-400">PUP SONs Engagement Platform</p>
             </div>
           </div>
 
@@ -76,7 +76,8 @@ export function LoginPage({ onSignIn }: LoginPageProps) {
           Growing together in faith
         </div>
         <div className="relative z-10 max-w-[480px]">
-          <p className="text-sm font-semibold text-[#c7e1a7]">SONs Database</p>
+          <p className="text-sm font-semibold text-[#c7e1a7]">Harvest</p>
+          <p className="mt-1 text-xs leading-5 text-emerald-50/65">Automated Member Engagement and Tracking Platform for PUP SONs</p>
           <h2 className="mt-3 text-[42px] font-extrabold leading-[1.12] tracking-tight text-white">One home for every growing cell group.</h2>
           <p className="mt-5 max-w-md text-sm leading-6 text-emerald-50/70">Manage members, track weekly growth, and help every leader stay connected to the work that matters.</p>
           <div className="teamhub-login-stats mt-10 grid grid-cols-3 divide-x divide-white/10">

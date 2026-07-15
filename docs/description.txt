@@ -1,0 +1,44 @@
+Harvest: Automated Member Engagement and Tracking Platform for PUP SONs
+
+Easy Explanation
+
+This project is a system for managing student organization members.
+It allows officers to:
+
+Register members digitally
+Assign roles and committees
+Track attendance automatically
+Monitor active/inactive members
+Generate reports
+Securely manage access
+Send announcements
+
+In simple words:
+It replaces manual attendance sheets and spreadsheets with an automated organization management system.
+
+Aligned United Nations System Development Goals:
+
+SDG 4 – Quality Education
+
+Harvest supports:
+Student leadership development
+Active participation tracking
+Data-driven improvement of student organizations
+
+It enhances educational experience beyond the classroom.
+
+SDG 16 – Peace, Justice, and Strong Institutions
+
+The system promotes:
+Transparent record keeping
+Structured organization management
+Accountability through attendance and engagement tracking
+
+It strengthens institutional governance within student organizations.
+
+SDG 9 – Industry, Innovation, and Infrastructure
+
+Harvest:
+Builds digital infrastructure for campus organizations
+Encourages innovation in student management systems
+

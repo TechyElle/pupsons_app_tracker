@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/SONS_Database-Community_Operations-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="SONS Database badge" />
+  <img src="https://img.shields.io/badge/Harvest-Community_Operations-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Harvest badge" />
 </p>
 
-<h1 align="center">📊 SONS Database</h1>
+<h1 align="center">🌱 Harvest</h1>
 
 <p align="center">
-  <strong>Track. Manage. Grow.</strong>
+  <strong>Automated Member Engagement and Tracking Platform for PUP SONs</strong>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ## 📖 Overview
 
-This repository contains a code bundle for SONS Database. The original project was designed from a Figma prototype and is now delivered as a Vite-powered React application focused on managing cell-group operations for PUP Seeds of the Nations.
+This repository contains a code bundle for Harvest: Automated Member Engagement and Tracking Platform for PUP SONs. The original project was designed from a Figma prototype and is now delivered as a Vite-powered React application focused on managing cell-group operations for PUP Seeds of the Nations.
 
 The platform combines a modular dashboard experience with analytics, content planning, fundraising oversight, and AI-assisted features, making it suitable for both day-to-day administration and reporting workflows.
 
@@ -88,7 +88,12 @@ The platform combines a modular dashboard experience with analytics, content pla
 │   ├── supabase/
 │   ├── utils/
 │   └── styles/
-├── SONS/
+├── docs/
+│   ├── README.md
+│   ├── description.txt
+│   ├── repo.md
+│   └── WEB_CONTRIBUTING.md
+├── screenshots/
 ├── package.json
 ├── vite.config.ts
 └── README.md
@@ -117,6 +122,15 @@ The development server will start on the default Vite local port.
 ```bash
 npm run build
 ```
+
+---
+
+## 📚 Docs and Screenshots
+
+- `docs/` contains repository design references, contribution standards, and project documentation.
+- `screenshots/` is reserved for UI mockups, app screenshots, and visual assets.
+
+---
 
 ---
 
